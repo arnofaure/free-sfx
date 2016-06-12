@@ -2,6 +2,7 @@
 A 100% Free SFX Package to play with.
 
 Listen to a preview [here](http://arnofaure.github.io/free-sfx/).
+The sounds are located in the **Package** Folder.
 
 ---
 
