@@ -25,7 +25,7 @@ I'm gonna try to keep updating this library with new sounds every once in a whil
 
 License
 ---
-This is a C0 licence.
+This is a CC0 licence.
 
 You are free to use, share, modify and do whatever you want with this package or any part of it in any personal, open-source or commercial work without obligation of payment (monetary or otherwise) or attribution. You even can host the set.
 
