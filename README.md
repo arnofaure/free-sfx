@@ -1,5 +1,7 @@
 # free-sfx
-A 100% Free Sfx package to play with
+A 100% Free SFX Package to play with.
+
+Listen to a preview [here](http://arnofaure.github.io/free-sfx/).
 
 ---
 
@@ -25,8 +27,8 @@ I'm gonna try to keep updating this library with new sounds every once in a whil
 
 License
 ---
-This is a CC0 licence.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 You are free to use, share, modify and do whatever you want with this package or any part of it in any personal, open-source or commercial work without obligation of payment (monetary or otherwise) or attribution. You even can host the set.
 
-As I want it to be open as it can be, the only thing **you are not allowed to do** is SELLING or RENTING (either in existing or modified form). Let's keep the web as open-source as we can.
+As I want it to be open as it can be, the only thing **you are not allowed to do** is SELLING or RENTING the package (either in existing or modified form). Let's keep the web as open-source as we can :)
