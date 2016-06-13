@@ -104,6 +104,6 @@ button:hover {
 .license {
     font-family: arial;
     margin-top: 2rem;
-    line-height: .3rem;
+    line-height: auto;
     font-size: .5rem;
 }
