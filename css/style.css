@@ -103,7 +103,12 @@ button:hover {
 }
 .license {
     font-family: arial;
-    margin-top: 2rem;
-    line-height: 1rem;
-    font-size: .5rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    font-size: .7rem;
+    line-height: .8rem;
+}
+.license > p {
+  line-height: .8rem;
+  margin-bottom: .3rem;
 }
