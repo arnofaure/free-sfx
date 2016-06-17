@@ -2,7 +2,7 @@
 A 100% Free SFX Package to play with.
 
 Listen to a preview [s-f-x.xyz](http://s-f-x.xyz)
-The sounds are located in the **Package** Folder.
+Download the sound files [**here**](https://studionora.ca/Download/s-f-x/Free%20SFX%20Package.zip)
 
 ---
 
@@ -22,8 +22,6 @@ The sound are available in AIFF, MP3 and OGG files. They are organized in folder
 - SciFi
 - Voice
 - Woosh
-
-
 
 I'm gonna try to keep updating this library with new sounds every once in a while.
 
