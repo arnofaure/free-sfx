@@ -31,4 +31,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 You are free to use, share, modify and do whatever you want with this package or any part of it in any personal, open-source or commercial work without obligation of payment (monetary or otherwise) or attribution. You even can host the set.
 
-As I want it to be open as it can be, the only thing **you are not allowed to do** is SELLING or RENTING the package (either in existing or modified form). Let's keep the web as open-source as we can :)
+Let's keep the web as open-source as we can :) the only thing **you are not allowed to do** is SELLING or RENTING the package (either in existing or modified form). 
