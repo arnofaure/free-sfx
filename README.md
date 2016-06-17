@@ -6,7 +6,7 @@ Download the sound files [**here**](https://studionora.ca/Download/s-f-x/Free%20
 
 ---
 
-Why I created this package??
+Why I created this package?
 ---
 I'm not a sound designer (and don't pretend to be), but as a video editor (for 15+ years) I work with sound every single day. I created this sound package because I needed to play with sound to learn and experiment audio in a web environment. As I didn't find any totally free sfx without complicated license, I decided to create this one and share it.
 
