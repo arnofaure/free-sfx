@@ -23,7 +23,7 @@ The sound are available in AIFF, MP3 and OGG files. They are organized in folder
 - Voice
 - Woosh
 
-I'm gonna try to keep updating this library with new sounds every once in a while.
+I'm going try to keep updating this library with new sounds every once in a while.
 
 License
 ---
