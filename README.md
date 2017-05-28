@@ -1,7 +1,7 @@
 # free-sfx
 A 100% Free SFX Package to play with.
 
-Listen to a preview [s-f-x.xyz](http://s-f-x.xyz)
+Listen to a preview [arnofaure.github.io/free-sfx/](https://arnofaure.github.io/free-sfx/)
 Download the sound files [**here**](https://studionora.ca/Download/s-f-x/Free%20SFX%20Package.zip)
 
 ---
